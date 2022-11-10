@@ -1,13 +1,9 @@
 /*
 Ryan Chisholm
-Computer Science Battleship Game Code
-Resubmission
+Battleship Game Code
 June 19th 2022
-From the base code given, I added the ability for the AI to shoot at players ships,
-and hid the AI ships so the player cannot see them, added newer colors and graphics
-an information menu and a winner and loser message screen, and a live scoreboard.
 
-Stuff added since last submission:
+Stuff added since last update:
 -Quit Button
 -Improved Game Over and Winner EndGame screens, better looking than just one word
 -Added ships to graphics as well as hit and miss symbols
